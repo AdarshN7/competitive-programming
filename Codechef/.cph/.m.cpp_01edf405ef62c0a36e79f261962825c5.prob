@@ -1,1 +1,0 @@
-{"name":"Local: m","url":"e:\\ADARSH\\projects\\cp\\m.cpp","tests":[{"id":1616300596813,"input":"3\n5 1\nABCAA\n4 2\nABAA\n6 2\nACCAAC","output":"Case #1: 0\nCase #2: 1\nCase #3: 0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\ADARSH\\projects\\cp\\m.cpp","group":"local","local":true}
